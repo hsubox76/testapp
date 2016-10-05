@@ -1,0 +1,28 @@
+.app-container {
+  width: 80%;
+  margin: auto;
+}
+
+.week {
+  display: flex;
+}
+
+.day-name-header {
+  display: flex;
+}
+
+.day-name-header > div {
+  width: 100px;
+  margin: 5px;
+}
+
+.day-box {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  background-color: #ccc;
+}
+
+.blue {
+  background-color: #489;
+}
